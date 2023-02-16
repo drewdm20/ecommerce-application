@@ -1,0 +1,2 @@
+
+23-02-16,4284,drew123,{"description":"RTX 4090 24Gb GDDR6X GPU","price":36000,"quantity":1,"subTotal":36000},{"description":"Intel ARC A750 8Gb GDDR6 GPU","price":6000,"quantity":1,"subTotal":6000},{"description":"Intel ARC A750 8Gb GDDR6 GPU","price":6000,"quantity":1,"subTotal":6000},55800
